@@ -1,0 +1,509 @@
+%
+
+Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life.
+
+https://twitter.com/thegrugq/status/563964286783877121
+
+%
+
+You can't fight a meme with an exploit.
+
+%
+
+Cyber warfare isn't chess, it's calvinball.
+
+%
+
+An APT is not a toolchain. You can't download your way to parity with Ft Meade.
+https://twitter.com/thegrugq/status/786339349847609344
+
+%
+
+Think of it like this: 
+
+0days are offensive security by obscurity.
+
+Just as fragile for attackers as “security by obscurity” is for defenders.
+
+%
+
+“If you want to conceal something, don’t swear people to silence, tell as many alternative stories as possible.” -- SOE rule
+https://twitter.com/thegrugq/status/1037577891150585856
+
+%
+
+I think the American way of cyberwar is: “it is statistically impossible to make mistakes 100% of the time, plus law of large numbers, so…”
+https://twitter.com/thegrugq/status/811330599424135169
+
+%
+
+grugq’s law is: don’t attribute to exploits what can adequately be explained by password theft.
+
+%
+
+The P in APT doesn’t stand for “Pathetic”
+
+%
+
+relying on attacker incompetence is no way to go through life
+
+%
+
+offensive cyber’s real strategic (ie. continuing) advantage is a "true positive" success signal. Defenders must deal with this
+
+% 
+
+Only break one law at a time.
+
+%
+
+Never lie by accident.
+
+%
+
+ProTip: you’re not worth an 0day.
+
+%
+
+Fear of 0day is like being terrified of ninjas instead of cardiovascular disease.
+
+%
+
+I’m not going to advise you on how to break the law other than to suggest that you shouldn’t.
+
+%
+
+Cyber is really only effective as an offensive capability. Defence has mitigation, detection, resilience, etc...but at the end of the day, cyber is a domain that favours the offensive (of course, once on someone else's network, you're on the defensive) 
+
+%
+
+make compromises: cost more; yield less; harder to use; easier to find. Analyze them, & stay awake
+
+%
+
+Fetishising 0day means that people think once a vulnerability is public there's some sort of automagic immunity.
+%
+
+It's surprising how critical good phishing technique is with these APT attacks. Effective phishing is more important than 0day.
+
+%
+
+I think I understand the US strategy against Chinese APT. It’s to flood the APT with so much data they won’t have analysts to review it all.
+
+%
+
+the APT that can be named is not the real APT. The way of APT is vast and unknowable. The APT is everywhere & nowhere
+
+%
+
+APT: repeatable success, interchangeable operators of low to mediocre skill. Easy to train techniques. Consistent results. 
+
+Like infantry.
+
+%
+
+Metcalfe’s Law is a bitch.
+
+%
+
+Limit the number of people involved to the bare minimum.
+11:09 PM - 4 Aug 2015
+https://twitter.com/thegrugq/status/628598651951054848
+
+%
+
+“The less written down, the better” or, “never say or email anything you don’t want read out in a court of law”
+2:58 AM - 11 Jul 2016
+https://twitter.com/thegrugq/status/752230475029057536
+
+%
+
+Never write if you can speak;
+Never speak if you can nod;
+Never nod if you can wink.
+
+% OPSEC maxim
+ (Martin Lomasney)
+11:11 PM - 4 Aug 2015
+https://twitter.com/thegrugq/status/628599130160431105
+
+%
+
+
+Encryption is a law enforcement problem, not an intelligence one.
+1:56 AM - 22 Jan 2016
+https://twitter.com/thegrugq/status/690246691232944128
+
+%
+
+OH: International law is colonialism by other means.
+12:45 PM - 22 Jan 2018
+https://twitter.com/thegrugq/status/955315437914353664
+
+%
+
+"Only break one law at a time."
+
+"Never lie by accident."
+
+Conducting influence campaigns isn’t that hard. It doesn’t require state-spectrum investment or capabilities. All you need is a plan, an audience, time, and an achievable goal. Keep good records, never lie by accident, iterate fast, use themes for guidance.
+Yes. Accidental lies can totally blow your operation. Only lie when you know what and why. It must be purposeful
+More of a “one law at a time” thing. You want to be in control of your messaging. Lies can confuses things or completely sink the ship.
+A) A riot in Boston D.C. killed 7
+B) A riot in DC killed 7
+
+It’s clear to the target audience “A” fishy, but “B” is not self evidently wrong
+Similarly to one lie at a time is one operation at a time. If your hijacking TV to inject fake data don’t also try to add satirical commentary to the news caster. The two ops would get jumbled and risk exposing each other. Everything must be deliberate
+
+%
+
+Laws make criminals. Repeal more laws, you get fewer criminals, they can use the law courts to settle contractual disputes rather than violence.
+
+%
+
+snowden argues the same techy bullshit argument other geeks have: that tech can defeat law, so ignore policy
+it's complete bullshit. It makes geeks feel powerful while not actually doing anything useful.
+
+%
+
+They violate the primary rule of maintaining security against a nation state - don’t break the law.
+
+%
+
+until geeks realize that people execute law code and not automatons, it’s kinda messy.
+
+%
+
+“An APT is more than just a tool chain, you can’t download your way to parity with Fort Meade”
+https://twitter.com/thegrugq/status/1063239079284760576
+
+%
+
+Not everything is APT and not every APT is sophisticated. Focus on practicing basic IT governance — asset management, patching, network segmentation, least privilege, 2FA, logging... drop in some @ThinkstCanary. Make them work to earn their pay
+
+%
+
+Real APT: we need to read their emails and steal their spreadsheets.
+Fantasy APT: we need to hack their baseband…because reasons!
+
+%
+
+Hey aspirational B team APT. You guys really need to learn that mission success is about the escape and evation, not the execution.
+
+%
+
+Yeah, I’m just being stupid about bureaucracy and organizations these days. Wondering if there’s units that work to enable the dev teams (hack for certs, hack for source, hack for infrastructure) and so on. Just like an army isn’t all infantry, what elements make up an APT group?
+
+%
+
+17 Malware Analysis Techniques That Work For Any APT Campaign.
+#infoseccosmo
+
+%
+
+cyber pathogen profilaxis is a common complication from APT infections.
+
+%
+
+The phrase for today is: collection bias. We see only the ops that get caught in the sector that is being monitored. The view port on APT activity is limited and skewed. Our data sets suck.
+
+%
+
+Wonder how much the style of attacks has to do with provenance. That is, pen testers mimic old school hackers, APT is repeatable success.
+j
+%
+
+Criminals and other APT groups will happily use anything that works, even if it is known.
+
+%
+
+Which APT Campaigns Are Hot This Summer!
+
+#infoseccosmo
+
+%
+
+Interestingly the North Koreans are probably the only APT that views cyberwar in the same terms as the US, but they aren’t constrained
+
+%
+
+TBF, there’s not much a civilian group can do to protect against an APT.
+
+%
+
+Does anyone except Russian crooks & pen testers still do “Step 1: hack the server“ style pen tests? The world has standardized on APT right?
+
+
+
+
+This is like the APT starter pack: Flash, win33k, old Java *and* old office, everything a gov contracting house runs on every workstation!
+
+%
+
+If I’m understanding this correctly, “cyber” is something you catch from a Chinese if you have unprotected APT?
+
+%
+
+in peace, prepare for apt
+
+%
+
+WTF is wrong with people? The opposition will use the cheapest most reliable tool every time they can. Yes, the GRU uses phishing (and 0day)
+
+%
+
+Russia can afford to kill the opposition’s 0day, regardless of how good, because they don’t care much about stealth or preserving exploits.
+
+%
+
+APTs use what works. But it’s kinda embarrassing if you don’t make them at least burn 0day... 
+
+%
+
+Fetishising 0day leads to bizarre situations where ppl think that making more vulnerabilities known to more people reduces risk.
+
+%
+
+Yes. 0day are for hardened HVT. Like spices, you don’t want to over use them, just enough
+
+%
+
+I’ll concede it isn’t perfect or feasible in every case, but I think “decruitment” is a totally viable offensive technique in a variety of situations. It is a variant of “countering violent extremism” in a way. Provide an off ramp, throw in incentives (if possible)
+
+%
+
+actually not a stupid question.
+
+
+
+Any competent offensive cyber team is going to need to detect whether they’ve popped a compromised box. They need a simple operational tool that works and doesn’t leak intelligence about what they know regarding other teams’ tooling —because it is run on a compromised host. 
+
+%
+
+Reminder to everyone: [bug bounties use] market forces to secure things by raising the cost of offensive ops, not the cost of defence.
+
+%
+
+Create infrastructure that requires only a new $5 VPS and a “rake deploy” to replicate to a new system. Offensive DevOps
+
+%
+
+APT groups operational characteristics are the result of organizational make up which is the result of politics & history.
+
+%
+
+Defender's strategic advantage is visibility at vantage points & scale unavailable & unknown to attackers. Denial of certainty of stealth. -- @dinodaizovi
+
+In addition to attacker vulnerabilities,
+
+%
+
+Modern day alchemy: turn a nothing burger wiki dump into an information operation.
+
+%
+
+Phrack, uniformed, etc are the alchemical grimoires of cyber security. Practitioners scribbling down what they knew from experiments and presenting the knowledge to their peers. They’re presented authoritatively, rich w/ arcane detail, on the path to professional discipline
+As an industry we still don’t know how to produce “hacker enlightenment” other than walking the old paths. Some of the Services have developed private colleges for professionalized training, but even they aren’t reliable at creating “master” hackers.
+Hacking is beyond the “alchemy” phase, but it’s not yet “chemistry.” Is it just gonna take more time? What would we need to bridge that gap?
+
+%
+
+ cyber is calvinball. The only rule is that it’s never played the same way twice.
+
+ %
+
+ We're only at the Alchemy stage of security - it's not a real science yet.
+
+ %
+
+ If a nation state is after you, you’re going to have a bad time.
+
+ %
+
+The Internet is the Wild West. We thought we were the cowboys but it turns out we're the indians. Fuck.
+
+%
+
+Learning good OPSEC requires internalizing the behavioural changes required to continually maintain a strong security posture.
+
+%
+
+Attackers are resource constrained too. -- @dinodaizovi
+
+%
+
+Attackers have bosses and budgets too. -- Phil Venables (@philvenables)
+
+%
+
+Your perimeter is not the boundary of your network but the boundary of your telemetry.
+
+%
+
+The future of CNO is the Morris Worm from 1988. 
+
+%
+
+Core offensive methodologies exploit human factors. Decades of success prove they aren't going away.
+
+%
+
+[a cyber offence framework] does not cost an aircraft carrier as Aitel says, it costs a submarine.
+
+%
+
+A key signing party is basically "bring your children over to get infected with chicken pox," but for grownup's laptops.
+
+%
+
+"Happy birthday @miaubiz!" -- the birthday attack. 
+
+%
+
+No one's going to jail for you.
+
+%
+
+The ultimate goal of strategem is to make the enemy quite certain, very decisive, and wrong. -- Bart Whaley
+
+%
+
+Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life.
+https://twitter.com/thegrugq/status/563964286783877121
+
+%
+
+You can get 25% off a Mandiant incident response with the code: ITWASCHINA. 100% off if you just use that code as the report.
+https://twitter.com/thegrugq/status/600345075562909696
+
+%
+
+Fear of 0day is like being terrified of ninjas instead of cardiovascular disease.
+https://twitter.com/thegrugq/status/851001030019907588
+
+%
+
+Ransomware is not about encrypting data. It is the _current_ implementation of a methodology that coerces the victim to act as an agent for the criminal (typically to acquire BTC.) Encrypting data just an implementation detail; it’s the “coerced agent” part that matters. There are infinite ways to coerce someone once you have access to their data. People will pay more to keep their secrets from their friends than to regain access to their data.
+https://twitter.com/thegrugq/status/933540391055273984
+
+%
+
+APT28 still going through about 2 0days a month, they don't stockpile, they burn.
+https://twitter.com/thegrugq/status/864274606130995201
+
+%
+
+W/ the MySpace hack, people will understand that passwords are like condoms. You aren't supposed to use them at more than one place.
+https://twitter.com/thegrugq/status/736492040335155200
+
+%
+
+Trust relationships are the foundations of compromise.
+https://twitter.com/thegrugq/status/705088675915239424
+
+%
+
+That marketing cycles around major conferences dictate when research is released tells you everything you need to know about infosec.
+https://twitter.com/thegrugq/status/702765131562749952
+
+%
+
+People that need their software to work in order to make money invest more into engineering than those who don't. Think about that next time you buy enterprise security software. Unless you pay only after it has stopped attacks ;)
+https://twitter.com/thegrugq/status/770849174589804545) on malware authors A/B testing, localizing and testing their work before deployment
+
+%
+
+An important lesson to learn is not to deploy tools before they are ready. The risk is revealing capability before you can exploit it
+https://twitter.com/thegrugq/status/707273816058109955
+
+%
+
+That’s pretty amazing discipline from the attackers. They discard 5 9's of infections to focus on a tiny subset. No chance that’s criminals
+https://twitter.com/thegrugq/status/912960298998366208) on the CCleaner hackers
+
+%
+
+
+when your attribution is based exclusively on forensic artifacts, you're using only adversarial controlled data
+https://twitter.com/thegrugq/status/548490283046797312
+
+%
+
+Drop 0day, not bombs.
+https://twitter.com/thegrugq/status/643844416537526272
+
+%
+
+Are there any #pwn2own winners that aren’t sponsored by massive Chinese Internet companies? It’s the equivalent of a Google team winning. No doubt the teams are skilled, but this is just marketing for the Chinese audience. 'Tencent wins hacking competition!' 'Baidu wins...' Is it time to accept that #Pwn2Own has outlived its usefulness to the community? Companies paying each other for marketing... *yawn*
+https://twitter.com/thegrugq/status/578467834054852609
+
+%
+
+AirCnC: It’s like AirBnB for botnets. Have a compromised host you don’t use all the time? Need a host but can’t afford the maintenance?
+https://twitter.com/thegrugq/status/657508423332814849
+%
+
+Long uptime for security. No one ever tests their exploits against browsers with a week of uptime. Heap feng shui? More like heap makeover
+https://twitter.com/thegrugq/status/584356859777159168
+
+%
+
+You are going to be phished long before you are going to be hit with CIA 0days. Enable 2FA and get a password manager.
+https://twitter.com/thegrugq/status/839471981120495616
+
+%
+
+a key signing party is basically "bring your children over to get infected with chicken pox", but for grownup's laptops
+https://twitter.com/thegrugq/status/831363157176184832
+
+%
+
+There are people with Tor browser 0day. This is a perennial truth. Learn to be secure even if the adversary has exploits. Because they do.
+https://twitter.com/thegrugq/status/720334344036818944
+
+%
+
+A great way to mitigate TAO is to not be the elected leader of a nation state, #protip
+https://twitter.com/thegrugq/status/692793830945337344
+
+%
+
+Journos assume we know to say 'off the record' and we assume they know not to click on 'Secret Doc.PDF.exe'
+https://twitter.com/thegrugq/status/654293293879070720
+
+%
+
+In none of the targeted attacks me and @CDA observed against Iranian civil society we found a 0day used. Mostly no "exploit" at all in fact. Besides the usual .scr, we see a variety of Office tricks, and embedding of PowerShell in a variety of file formats (e.g. LNK) as well as repackaging of legitimate software. [...] Surely, there's a lot of human mistakes involved, but as long as we enable e.g. executing embedded EXEs through PowerPoint animations the human mistakes seem more tolerable, and development and employment of exploits way less "profitable". Most of the tricks I observe used for infection also have the "advantage" of requiring way less situational awareness from the attacker which significantly reduces costs and improve success rate for attackers [...] In some sadistic way, I wish we'd be in a place where exploits were really required, at least it would sensibly increase costs for attacks.
+https://twitter.com/thegrugq/timelines/764512283099697152
+
+%
+
+less Twitter more committer! Keep coding
+https://twitter.com/thegrugq/status/533620917469855749
+
+%
+
+Software is eating the world. Software rots. This is a very scary thing to think about.
+https://twitter.com/thegrugq/status/633306726142337025
+
+%
+
+Everybody that's been breached or has security patches to release? Today is _the_ day to bury infosec news!
+https://twitter.com/thegrugq/status/618028615054159873) on the day of the Hacking Team hack.</cite>
+
+%
+
+New rule: if you are hacked via OWASP Top 10, you’re not allowed to call it 'advanced' or 'sophisticated.'
+https://twitter.com/thegrugq/status/658991205816995840
+
+%
+
+Don’t make me sudo. You wouldn’t like me when I’m root.
+https://twitter.com/thegrugq/status/614305448540311552
+
+%
+
+The Russians are playing chess and the Americans are playing “how far does this crayon go up my nose?” 
+https://twitter.com/thegrugq/status/766337166406393856
+
+%
