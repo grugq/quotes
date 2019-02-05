@@ -1,0 +1,107 @@
+Give a man an 0day and he'll have access for a day, teach a man to phish and he'll have access for life.
+https://twitter.com/thegrugq/status/563964286783877121
+--
+
+You can get 25% off a Mandiant incident response with the code: ITWASCHINA. 100% off if you just use that code as the report.
+https://twitter.com/thegrugq/status/600345075562909696
+--
+
+Fear of 0day is like being terrified of ninjas instead of cardiovascular disease.
+https://twitter.com/thegrugq/status/851001030019907588
+--
+
+Ransomware is not about encrypting data. It is the _current_ implementation of a methodology that coerces the victim to act as an agent for the criminal (typically to acquire BTC.) Encrypting data just an implementation detail; it’s the “coerced agent” part that matters. There are infinite ways to coerce someone once you have access to their data. People will pay more to keep their secrets from their friends than to regain access to their data.
+https://twitter.com/thegrugq/status/933540391055273984
+--
+
+APT28 still going through about 2 0days a month, they don't stockpile, they burn.
+https://twitter.com/thegrugq/status/864274606130995201
+--
+
+W/ the MySpace hack, people will understand that passwords are like condoms. You aren't supposed to use them at more than one place.
+https://twitter.com/thegrugq/status/736492040335155200
+--
+
+Trust relationships are the foundations of compromise.
+https://twitter.com/thegrugq/status/705088675915239424
+--
+
+That marketing cycles around major conferences dictate when research is released tells you everything you need to know about infosec.
+https://twitter.com/thegrugq/status/702765131562749952
+--
+
+People that need their software to work in order to make money invest more into engineering than those who don't. Think about that next time you buy enterprise security software. Unless you pay only after it has stopped attacks ;)
+https://twitter.com/thegrugq/status/770849174589804545) on malware authors A/B testing, localizing and testing their work before deployment
+--
+
+An important lesson to learn is not to deploy tools before they are ready. The risk is revealing capability before you can exploit it
+https://twitter.com/thegrugq/status/707273816058109955
+--
+
+That’s pretty amazing discipline from the attackers. They discard 5 9's of infections to focus on a tiny subset. No chance that’s criminals
+https://twitter.com/thegrugq/status/912960298998366208) on the CCleaner hackers
+--
+
+
+when your attribution is based exclusively on forensic artifacts, you're using only adversarial controlled data
+https://twitter.com/thegrugq/status/548490283046797312
+--
+
+Drop 0day, not bombs.
+https://twitter.com/thegrugq/status/643844416537526272
+--
+
+Are there any #pwn2own winners that aren’t sponsored by massive Chinese Internet companies? It’s the equivalent of a Google team winning. No doubt the teams are skilled, but this is just marketing for the Chinese audience. 'Tencent wins hacking competition!' 'Baidu wins...' Is it time to accept that #Pwn2Own has outlived its usefulness to the community? Companies paying each other for marketing... *yawn*
+https://twitter.com/thegrugq/status/578467834054852609
+--
+
+AirCnC: It’s like AirBnB for botnets. Have a compromised host you don’t use all the time? Need a host but can’t afford the maintenance?
+https://twitter.com/thegrugq/status/657508423332814849
+--
+
+Long uptime for security. No one ever tests their exploits against browsers with a week of uptime. Heap feng shui? More like heap makeover
+https://twitter.com/thegrugq/status/584356859777159168
+--
+
+You are going to be phished long before you are going to be hit with CIA 0days. Enable 2FA and get a password manager.
+https://twitter.com/thegrugq/status/839471981120495616
+--
+
+a key signing party is basically "bring your children over to get infected with chicken pox", but for grownup's laptops
+https://twitter.com/thegrugq/status/831363157176184832
+--
+
+There are people with Tor browser 0day. This is a perennial truth. Learn to be secure even if the adversary has exploits. Because they do.
+https://twitter.com/thegrugq/status/720334344036818944
+--
+
+A great way to mitigate TAO is to not be the elected leader of a nation state, #protip
+https://twitter.com/thegrugq/status/692793830945337344
+--
+
+Journos assume we know to say 'off the record' and we assume they know not to click on 'Secret Doc.PDF.exe'
+https://twitter.com/thegrugq/status/654293293879070720
+--
+
+In none of the targeted attacks me and @CDA observed against Iranian civil society we found a 0day used. Mostly no "exploit" at all in fact. Besides the usual .scr, we see a variety of Office tricks, and embedding of PowerShell in a variety of file formats (e.g. LNK) as well as repackaging of legitimate software. [...] Surely, there's a lot of human mistakes involved, but as long as we enable e.g. executing embedded EXEs through PowerPoint animations the human mistakes seem more tolerable, and development and employment of exploits way less "profitable". Most of the tricks I observe used for infection also have the "advantage" of requiring way less situational awareness from the attacker which significantly reduces costs and improve success rate for attackers [...] In some sadistic way, I wish we'd be in a place where exploits were really required, at least it would sensibly increase costs for attacks.
+https://twitter.com/thegrugq/timelines/764512283099697152
+--
+
+less Twitter more committer! Keep coding
+https://twitter.com/thegrugq/status/533620917469855749
+--
+
+Software is eating the world. Software rots. This is a very scary thing to think about.
+https://twitter.com/thegrugq/status/633306726142337025
+--
+
+Everybody that's been breached or has security patches to release? Today is _the_ day to bury infosec news!
+https://twitter.com/thegrugq/status/618028615054159873) on the day of the Hacking Team hack.</cite>
+--
+
+New rule: if you are hacked via OWASP Top 10, you’re not allowed to call it 'advanced' or 'sophisticated.'
+https://twitter.com/thegrugq/status/658991205816995840
+--
+
+Don’t make me sudo. You wouldn’t like me when I’m root.
+https://twitter.com/thegrugq/status/614305448540311552
