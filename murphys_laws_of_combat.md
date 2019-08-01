@@ -314,7 +314,7 @@
 					</ul>
 					<h4>Law of Fighting Airplanes</h4>
 					<ul>
-						<li>The enemy is always has the advantage.</li>
+						<li>The enemy always has the advantage.</li>
 						<li>Heat-seeking missiles don't know the difference between friend and foe.</li>
 						<li>'Armor' is a fantasy invented by your C.O. to make you feel better.</li>
 						<li>Afterburners aren't.</li>
